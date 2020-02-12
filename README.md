@@ -1,4 +1,12 @@
-# talks
+
+<p align="center">
+<img src="img/logo_flutter_madrid.png" alt="Logo Flutter Madrid">
+<a href="https://github.com/Flutter-Madrid">
+<img src="https://img.shields.io/badge/made%20by-Flutter%20Madrid-blue" alt="badge">
+</a>
+</p>
+
+## talks
 
 Este repositorio contiene todas la información sobre las charlas que se han impartido en el meetup de Flutter Madrid
 
